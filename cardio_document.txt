@@ -36,7 +36,7 @@ Gluc: Glucose level of the subject | Categorical Variable | (Examination)
 
 	N	Normal
 	B	Borderline
-	D	High
+	H	High
 
 Smoke: Whether subject is a smoker | Binary Variable | (Subjective)
 
@@ -56,4 +56,4 @@ Active: Whether subject is Physical active | Binary Variable | (Subjective)
 Cardio: Subject has been diagnosed with cardiovascular disease | Binary Variable | (Examination)
 
 	0	Absence of Cardiovascular disease
-	1	Diagnosed with Cardiovascular diseas
+	1	Diagnosed with Cardiovascular disease
