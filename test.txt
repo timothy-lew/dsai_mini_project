@@ -1,0 +1,59 @@
+Data description
+3 types of Variables:
+
+Objective: factual information;
+Examination: results of medical examination;
+Subjective: information given by the patient.
+
+Features:
+
+id: Identification of the subject. (Objective)
+
+Age: Age of the subject in years | Numeric Variable | (Objective)
+
+Gender: Gender of the subject | Binary Variable | (Objective)
+
+	M	Male
+	F	Female
+
+Height: Height of the subject in cm | Numeric Variable | (Objective)
+
+Weight: Weight of the subject in kg | Numeric Variable | (Objective)
+
+BMI: Body Mass Index of the subject | Numeric Variable | (Objective)
+
+AP_HI: Systolic blood pressure of the subject | Numeric Variable | (Examination)
+
+AP_LO: Diastolic blood pressure of the subject | Numeric Variable | (Examination)
+
+Chol: Cholesterol level of the subject | Categorical Variable | (Examination)
+
+	N	Normal
+	B	Borderline
+	H	High
+
+Gluc: Glucose level of the subject | Categorical Variable | (Examination)
+
+	N	Normal
+	B	Borderline
+	H	High
+
+Smoke: Whether subject is a smoker | Binary Variable | (Subjective)
+
+	0	Non-smoker
+	1	Smoker
+
+Alco: Whether subject drink Alcohol regularly | Binary Variable | (Subjective)
+	
+	0	Non-drinker
+	1	Drinker
+
+Active: Whether subject is Physical active | Binary Variable | (Subjective)
+
+	0	Sedantary lifestyle
+	1	Active lifestyle
+
+Cardio: Subject has been diagnosed with cardiovascular disease | Binary Variable | (Examination)
+
+	0	Absence of Cardiovascular disease
+	1	Diagnosed with Cardiovascular disease
