@@ -2,7 +2,7 @@
 
 This is a SC1015(Introduction to Data Science and Artificial Intelligence) Mini Project which used the [Cardiovascular Disease Dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) from Kaggle.
 
-## Problem Definition 
+# Problem Definition 
 Can we detect the presence of cardiovasular disease in a patient based on their current conditions?
 
 # Contributors
